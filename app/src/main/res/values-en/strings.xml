@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_version">Version</string>
+    <string name="ui_title_phone">Phone</string>
+    <string name="ui_title_sim">SIM</string>
+    <string name="ui_value_notdefined">not defined</string>
+    <string name="activity_no_perms_message">App cannot work!!\nNo permissions to read phone state</string>
+    <string name="activity_no_gps_message">GPS not enabled!!\nIs required for obtain cell lists.\nDo you want to open settings?</string>
+    <string name="ui_button_close">Close</string>
+    <string name="ui_label_swver">Software Version</string>
+    <string name="ui_label_network_count">Visible network cells</string>
+    <string name="ui_label_network_type">Network Type</string>
+    <string name="ui_label_device_id">Device ID</string>
+    <string name="ui_image_network">Network</string>
+    <string name="ui_image_phone">Phone</string>
+    <string name="ui_image_sim">SIM</string>
+    <string name="ui_label_sim_country">Country ISO code</string>
+    <string name="ui_label_sim_iccid">ICCID (serial number)</string>
+    <string name="ui_label_sim_operator">Operator Name</string>
+    <string name="ui_title_network">Network</string>
+    <string name="ui_label_subscriber">Subscriber ID</string>
+    <string name="ui_label_imei1">Phone IMEI 1</string>
+    <string name="ui_label_imei2">Phone IMEI 2</string>
+    <string name="ui_label_carrier">Carrier</string>
+    <string name="ui_label_number">Phone number</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

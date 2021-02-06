@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_version">Versione</string>
+    <string name="ui_title_phone">Telefono</string>
+    <string name="ui_title_sim">Carta SIM</string>
+    <string name="ui_value_notdefined">non impostato</string>
+    <string name="activity_no_perms_message">L\'app non può funzionare senza i permessi</string>
+    <string name="activity_no_gps_message">GPS non abilitato!!\nE\' richiesto per visualizzare l\'elenco delle celle.\nVuoi aprire le importazioni?</string>
+    <string name="ui_button_close">Chiudi</string>
+    <string name="ui_label_swver">Versione Software</string>
+    <string name="ui_label_network_count">Celle visibili</string>
+    <string name="ui_label_network_type">Tipologia rete</string>
+    <string name="ui_label_device_id">ID dispositivo</string>
+    <string name="ui_image_network">Rete</string>
+    <string name="ui_image_phone">Telefono</string>
+    <string name="ui_image_sim">SIM</string>
+    <string name="ui_label_sim_operator">Nome Operatore</string>
+    <string name="ui_label_sim_iccid">ICCID (Seriale)</string>
+    <string name="ui_label_sim_country">Codice ISO Country</string>
+    <string name="ui_title_network">Rete</string>
+    <string name="ui_label_subscriber">Subscriber ID</string>
+    <string name="ui_label_imei1">IMEI 1</string>
+    <string name="ui_label_imei2">IMEI 2</string>
+    <string name="ui_label_carrier">Operatore</string>
+    <string name="ui_label_number">Numero di telefono</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+</resources>
